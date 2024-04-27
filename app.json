@@ -1,0 +1,16 @@
+{
+  "name": "rrmm",
+  "displayName": "rrmm",
+  "colors": {
+    "light": {
+      "primary": "#FFFFFF",
+      "secondary": "#121212",
+      "helpText": "#494949"
+    },
+    "dark": {
+      "primary": "#121212",
+      "secondary": "#FFFFFF",
+      "helpText": "#697b96"
+    }
+  }
+}
